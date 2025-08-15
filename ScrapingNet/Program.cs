@@ -47,3 +47,15 @@ else
     Console.WriteLine("No se encontraron productos.");
 }
 
+/*
+ (() => {
+    const elements = document.querySelectorAll('h3.poly-component__title-wrapper');
+    const res = [];
+    
+    for(let i = 0; i < elements.length; i++)
+        res.push(elements[i].innerText);
+    
+    return res;
+})();
+ */
+
