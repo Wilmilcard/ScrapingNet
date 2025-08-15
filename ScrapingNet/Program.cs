@@ -47,6 +47,7 @@ else
     Console.WriteLine("No se encontraron productos.");
 }
 
+
 /*
  (() => {
     const elements = document.querySelectorAll('h3.poly-component__title-wrapper');
